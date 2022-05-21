@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taruna21
-- 👀 I’m interested in Data science, blockchain tech, ML, AI etc. 
-- 🌱 I’m currently learning Python and blockchain basics
+- 👀 I’m interested in Python dev, blockchain tech, ML, AI etc. 
+- 🌱 I’m currently learning Python , Django etc...
 - 📫 I'm a learner 
 
 <!---
