@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taruna
 - 👀 I’m interested in Python dev, ML, AI etc. 
-- 🌱 I’m currently learning Python , Django etc...
+- 🌱 I’m currently learning Python , Django , FastAPI , DSA :)
 - 📫 I'm a learner 
 
 <!---
